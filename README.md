@@ -79,6 +79,7 @@ MLLMs generate structured textual representations from video content to support 
 | [**Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models**](http://arxiv.org/abs/2501.07972) |     Moment-GPT     | 01/2025 |                          -                           |       AAAI       |
 
 
+
 ### Executor
 MLLMs directly perform temporal boundary prediction via integrated multimodal reasoning.
 | Title                                                        |       Model       |  Date   |                             Link                             |  Venue   |
@@ -237,6 +238,7 @@ Explicit modeling strategies directly furnish MLLMs with unambiguous temporal in
 | [**TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability**](http://arxiv.org/abs/2411.18211) | TimeMarker  | 11/2024 | [project](https://github.com/TimeMarker-LLM/TimeMarker/) |  arXiv  |
 | [**LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding**](http://arxiv.org/abs/2501.08282) |  LLaVA-ST   | 01/2025 |    [project](https://github.com/appletea233/LLaVA-ST)    |  arXiv  |
 | [**VideoExpert: Augmented LLM for Temporal-Sensitive Video Understanding**](http://arxiv.org/abs/2504.07519) | VideoExpert | 04/2025 |                            -                             |  arXiv  |
+| [**Factorized Learning for Temporally Grounded Video-Language Models**](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_Factorized_Learning_for_Temporally_Grounded_Video-Language_Models_ICCV_2025_paper.pdf) |     D2VLM     | 10/2025 |                          [code](https://github.com/nusnlp/d2vlm)                           |       ICCV       |
 
 #### Implicit  
 Implicit modeling strategies are divided into two main types: *Feature Infusion*, which subtly integrates temporal context during feature extraction, and *Intrinsic Reasoning*, which leverages the inherent sequential processing of LLMs.  By default, methods under this category are considered part of Intrinsic Reasoning, unless they explicitly incorporate external temporal features during encoding—in which case they are classified as Feature Infusion. The table below highlights representative works employing the Feature Infusion approach.
