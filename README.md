@@ -118,6 +118,7 @@ MLLMs directly perform temporal boundary prediction via integrated multimodal re
 | [**SpaceVLLM: Endowing Multimodal Large Language Model with Spatio-Temporal Video Grounding Capability**](http://arxiv.org/abs/2503.13983) |     SpaceVLLM     | 04/2025 |       [project](https://github.com/Jayce1kk/SpaceVLLM)       |  arXiv   |
 | [**Time-R1: Post-Training Large Vision Language Model for Temporal Video Grounding**](http://arxiv.org/abs/2503.13377) |      Time-R1      | 05/2025 |        [project](https://xuboshen.github.io/Time-R1/)        |  arXiv   |
 | [**MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding**](http://arxiv.org/abs/2505.20715) |       MUSEG       | 05/2025 |        [project](https://github.com/THUNLP-MT/MUSEG)         |  arXiv   |
+| [**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**](https://arxiv.org/abs/2603.24329) |    GameplayQA     | 03/2026 |       [project](https://hats-ict.github.io/gameplayqa/)      | ACL  |
 
 ---
 
